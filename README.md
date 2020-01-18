@@ -1,2 +1,2 @@
-# datashacks_amsp
+# datashacks
 antimicrobial stewardship platform by datashacks
